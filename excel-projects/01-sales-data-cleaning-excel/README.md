@@ -1,4 +1,4 @@
-# 🧼 Excel Data Cleaning Project – Sales Dataset Standardization
+# Excel Data Cleaning Project – Sales Dataset Standardization
 
 ## 📌 Objective
 This project simulates a **real-world business scenario** where raw sales data collected from regional teams is inconsistent, messy, and not analysis-ready. Using Excel, I performed full data cleaning and standardization to ensure it's ready for downstream tasks like reporting, dashboarding, and decision-making.
